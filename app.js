@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
   let score = 0
 
   const candyColors = [
-    'url(imagens/red-candy.png)',
-    'url(imagens/yellow-candy.png)',
-    'url(imagens/orange-candy.png)',
-    'url(imagens/purple-candy.png)',
-    'url(imagens/green-candy.png)',
-    'url(imagens/blue-candy.png)'
+    'url(red-candy.png)',
+    'url(yellow-candy.png)',
+    'url(orange-candy.png)',
+    'url(purple-candy.png)',
+    'url(green-candy.png)',
+    'url(blue-candy.png)'
   ]
   // Create Board
   function createBoard() {
